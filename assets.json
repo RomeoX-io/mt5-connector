@@ -1,0 +1,14 @@
+{
+    "SILVER": {
+        "target": 1,
+        "open": 1.0
+    },
+    "BTCUSD": {
+        "target": 0.1,
+        "open": 0.1
+    },
+    "EURJPY": {
+        "target": -0.2,
+        "open": -0.2
+    }
+}
